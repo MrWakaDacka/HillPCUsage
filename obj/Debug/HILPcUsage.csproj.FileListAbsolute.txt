@@ -1,0 +1,21 @@
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.exe.config
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.exe
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.pdb
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.csprojResolveAssemblyReference.cache
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.exe
+C:\Users\nj51hx\staj\HIL Pc Usage\projects\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.pdb
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.exe.config
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.exe
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.pdb
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.exe
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\bin\Debug\HILPcUsage.pdb
+C:\Users\wj9qhd\Desktop\AYTAC\SelinSaltan\HILPcUsage\HILPcUsage\obj\Debug\HILPcUsage.csprojResolveAssemblyReference.cache
+E:\HILPcUsage\bin\Debug\HILPcUsage.exe.config
+E:\HILPcUsage\obj\Debug\HILPcUsage.exe
+E:\HILPcUsage\obj\Debug\HILPcUsage.pdb
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\bin\Debug\HILPcUsage.exe.config
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\obj\Debug\HILPcUsage.exe
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\obj\Debug\HILPcUsage.pdb
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\bin\Debug\HILPcUsage.exe
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\bin\Debug\HILPcUsage.pdb
+C:\Users\AYTAC\Desktop\AYTAC\Products\HILPcUsage\obj\Debug\HILPcUsage.csprojResolveAssemblyReference.cache
